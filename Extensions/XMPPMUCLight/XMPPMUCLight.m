@@ -7,7 +7,7 @@
 //
 
 #import "XMPPMUC.h"
-#import "XMPPFramework.h"
+#import "XMPPFramework/XMPPFramework.h"
 #import "XMPPLogging.h"
 #import "XMPPIDTracker.h"
 #import "XMPPMUCLight.h"
